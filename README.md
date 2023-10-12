@@ -1,13 +1,5 @@
-# JBQQuizMe
+# MAUI.NET Button Collection Example
 
-Simple quizzing game for kids based on Junior Bible Quizzing (JBQ) 10-point questions
+A simple example of a collection of buttons with different sizes due to different lengths of wrapped text
 
-## Credits
-
-- Pastor Michelle Redmon from Faith Chapel of Overland Park for transcribing the questions
-- Pastor Scott Redmon for general support and consulting on JBQ
-- My son Matthew for helping with beta testing
-- Pastor Dale MacKinney of Gardner Faith Chapel for suggesting the 'Only Show Interruption Points' mode
-
-## Where to Get
-- [Game Information and Download Page](https://pvoelker.github.io/JBQQuizMe/)
+This demonstrates an issue being seen with multiline buttons of different sizes on iOS not working correctly
